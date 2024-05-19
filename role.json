@@ -1,0 +1,304 @@
+[
+  {
+    "id": 101,
+    "name": "Death Knight",
+    "motto" : "Embrace the darkness, wield the cold.",
+    "armorType": "Plate",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DK.jpg",
+    "description": "Death Knights were originally created by the Lich King, Ner'zhul. These Death Knights served as elite warriors of the Scourge, the undead army controlled by the Lich King.",
+    "specializations": [
+      {
+        "name": "Blood",
+        "description": "Blood Death Knights are masters of blood magic, using it both defensively and offensively. They can form blood shields to absorb damage, mend their wounds through siphoning life from their foes, and even summon bloodworms to aid them in battle.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DeathknightBlood.jpg"
+      },
+      {
+        "name": "Frost",
+        "description": "Frost Death Knights draw their power from the bitter cold of the frozen wastes. Their abilities are infused with frost magic, allowing them to wield icy weapons and unleash chilling attacks upon their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DeathknightFrost.jpg"
+      },
+      {
+        "name": "Unholy",
+        "description": "Unholy Death Knights are masters of necromancy, wielding dark powers to manipulate death itself. They summon unholy minions to do their bidding, spread plagues and diseases among their enemies, and raise the dead to fight alongside them in battle.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DeathknightUnholy.jpg"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Mage",
+    "motto" : "Harvest mana, shape reality",
+    "description": "The origins of mage magic in Azeroth trace back to the ancient civilization of the high elves, who were once part of the larger night elf civilization.",
+    "armorType": "Cloth",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Mage.jpg",
+    "specializations": [
+    {
+      "name": "Fire",
+      "description" : "Fire Mages are masters of pyromancy, the magical art of controlling and manipulating fire. They wield powerful spells that ignite their enemies in flames, causing immense damage over time.",
+      "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/MageFire.jpg"
+    },
+    {
+      "name": "Frost",
+      "description" : "Frost Mages specialize in harnessing the power of ice and frost magic. They are masters of chilling winds, freezing blasts, and icy storms that can immobilize and shatter their foes. ",
+      "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/MageFrost.jpg"
+    },
+    {
+      "name": "Arcane",
+      "description" : "Unlike Fire and Frost Mages, who focus on harnessing specific elemental energies, Arcane Mages draw their power directly from the arcane itself. They are able to tap into the purest form of magic, unleashing devastating spells that warp time and space and bend reality to their will.",
+      "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/MageArcane.jpg"
+    }
+  ]
+  },
+  {
+    "id": 103,
+    "name": "Dark Ranger",
+    "motto" : "Silent shadows, deadly aim.",
+    "description": "Dark Rangers have their origins in the High Elf Ranger tradition. Before the fall of Quel'Thalas and the transformation of some high elves into the undead, Sylvanas Windrunner was a prominent Ranger-General of Silvermoon, leading the defenders of Quel'Thalas against the Scourge invasion.",
+    "armorType": "Mail",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DR.jpg",
+    "specializations": [
+      {
+        "name": "Hound Master",
+        "description" : "Hound Masters are skilled trackers and hunters who rely on their spectral hounds to sniff out prey and track down their enemies. These hounds, imbued with dark energy, possess keen senses and supernatural abilities that make them invaluable companions in battle.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/HoundMaster.jpg"
+      },
+      {
+        "name": "Dark Hunter",
+        "description" : "Dark Hunters are masters of the bow and arrow, skilled in the art of archery and stealth. They specialize in hunting down their enemies from the shadows, striking swiftly and silently before fading back into darkness.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DarkHunter.jpg"
+      },
+      {
+        "name": "Banshee",
+        "description" : "Banshees are dark sorceresses who command the power of the restless spirits that haunt the shadows. They are able to channel the anguished cries of these wailing spirits into powerful spells that can devastate their enemies and sow terror among their ranks.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Banshee.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 104,
+    "name": "Shaman",
+    "motto" : "Commune with spirits, command the elements.",
+    "description": "Shamans are deeply connected to the elements of the natural world, including earth, fire, water, and air, and they serve as intermediaries between mortal beings and the elemental spirits.",
+    "armorType": "Mail",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Shaman.jpg",
+    "specializations": [
+      {
+        "name": "Elemental",
+        "description" : "Elemental Shamans are revered as the conduits through which the primal forces of nature flow. They have honed their connection to the elements, allowing them to call upon the power of fire, earth, air, and water to smite their enemies and protect their allies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/ShamanElemental.jpg"
+      },
+      {
+        "name": "Restoration",
+        "description" : "Restoration Shamans are revered as healers and caretakers of the earth, drawing upon the power of the elements to mend the wounds of their allies and restore balance to the world.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/ShamanRestoration.jpg"
+      },
+      {
+        "name": "Ehancement",
+        "description" : "Enhancement Shamans are fierce warriors who channel the raw power of the elements into their weapons, transforming themselves into unstoppable forces of nature.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/ShamanEnhancement.jpg"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Priest",
+    "motto" : "Channel the divine, heal the soul.",
+    "description": "Priests have a long and venerable history in Azeroth, dating back to the earliest civilizations. They are typically associated with religious institutions, temples, and orders dedicated to serving the divine.",
+    "armorType": "Cloth",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Priest.jpg",
+    "specializations": [
+      {
+        "name": "Holy",
+        "description" : "Holy Priests are devout servants of the Light, dedicated to healing the wounded and bringing hope to the downtrodden.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/PriestHoly.jpg"
+      },
+      {
+        "name": "Shadow",
+        "description" : "Shadow Priests are wielders of dark and forbidden magic, harnessing the power of the Void to unleash devastating attacks on their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/PriestShadow.jpg"
+      },
+      {
+        "name": "Discipline",
+        "description" : "Discipline Priests are skilled in the art of defensive magic, using their powers to shield their allies from harm and bolster their defenses.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/PriestDiscipline.jpg"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Warlock",
+    "motto" : "Master of dark arts, wielder of demonic power.",
+    "armorType": "Cloth",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Warlock.jpg",
+    "description": "Warlocks are practitioners of fel magic, a corrupt and destructive form of arcane energy derived from the Twisting Nether, the chaotic realm that exists between worlds.",
+    "specializations": [
+      {
+        "name": "Affliction",
+        "description" : "Affliction Warlocks are practitioners of dark and forbidden magic, wielding the power of shadow and decay to afflict their enemies with curses and diseases.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Affliction.jpg"
+      },
+      {
+        "name": "Destruction",
+        "description" : "Destruction Warlocks are wielders of infernal fire, harnessing the power of flames and brimstone to unleash devastating attacks upon their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Destruction.jpg"
+      },
+      {
+        "name": "Demonology",
+        "description" : "Demonology Warlocks are masters of summoning and controlling demonic forces, calling upon the infernal legions of the Twisting Nether to do their bidding.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Demonology.jpg"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Warrior",
+    "motto": "Unyielding strength, unstoppable force.",
+    "armorType": "Plate",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Warrior.jpg",
+    "description": "Warriors are among the oldest and most respected combatants in Azeroth. They come from all walks of life, ranging from hardened veterans of war to noble knights and skilled mercenaries.",
+    "specializations": [
+      {
+        "name": "Arms",
+        "description" : "Arms Warriors are skilled tacticians who understand the importance of strategy and planning on the battlefield.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Arms.jpg"
+      },
+      {
+        "name": "Fury",
+        "description" : "Fury Warriors are known for their mastery of dual-wielding weapons, wielding two weapons with deadly efficiency and unleashing a flurry of strikes upon their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Fury.jpg"
+      },
+      {
+        "name": "Protection",
+        "description" : "Protection Warriors are stalwart defenders who stand as bulwarks against the tide of darkness, protecting their allies with their mighty shields and indomitable strength.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Protection.jpg"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Titan",
+    "motto": "Masters of destruction, lords of creation.",
+    "description" : "Titans are cosmic beings who travel across the universe, shaping and ordering worlds according to their vision of cosmic harmony.",
+    "armorType": "Unknown",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Titan.jpg",
+    "specializations": [
+      {
+        "name": "Destroyer",
+        "description" : "Destroyers are formidable warriors who harness the power of destruction to lay waste to their enemies and reshape the battlefield in their image.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Destroyer.jpg"
+      },
+      {
+        "name": "Overlord",
+        "description" : "Overlords are powerful leaders who command legions of loyal followers and bend the very fabric of reality to their will.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Overlord.jpg"
+      },
+      {
+        "name": "Deity",
+        "description" : "Deities are divine beings who have transcended mortal limitations and ascended to godlike status.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Deity.jpg"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Shadow Hunter",
+    "motto": "Embrace the shadows, hunt with purpose.",
+    "description": "Shadow Hunters originated among the trolls of Azeroth, particularly the Darkspear tribe. They combine elements of traditional troll witch doctors, warriors, and shadow magic wielders.",
+    "armorType": "Leather",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/SH.jpg",
+    "specializations": [
+      {
+        "name": "Spirit Walker",
+        "description" : "Spirit Walkers are enigmatic figures who possess a deep connection to the spirit world, allowing them to commune with the souls of the departed and seek guidance from the ancestral spirits.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/SpiritWalker.jpg"
+      },
+      {
+        "name": "Shadow Stalker",
+        "description" : "Shadow Stalkers are elusive and cunning hunters who specialize in stalking their prey from the shadows and striking with deadly precision.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/ShadowStalker.jpg"
+      },
+      {
+        "name": "Voidcaller",
+        "description" : "Voidcallers are beings of darkness and shadow, their forms twisted and warped by the corrupting influence of the Void.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Voidcaller.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 110,
+    "name": "Rogue",
+    "motto": "Swift and silent, strike from the shadows.",
+    "description": "Rogues come from diverse backgrounds and walks of life, ranging from street urchins and thieves to assassins and spies. They are skilled in the arts of deception, infiltration, and close-quarters combat, using their agility, cunning, and resourcefulness to achieve their goals.",
+    "armorType": "Leather",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Rogue.jpg",
+    "specializations": [
+      {
+        "name": "Assassination",
+        "description" : "Assassination Rogues are deadly operatives who specialize in eliminating high-value targets with precision and stealth.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Assassination.jpg"
+      },
+      {
+        "name": "Sublety",
+        "description" : "Subtlety Rogues are masters of stealth and deception, able to move unseen and unheard through the shadows to strike at their enemies' weakest points.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Sublety.jpg"
+      },
+      {
+        "name": "Outlaw",
+        "description" : "Outlaw Rogues are swashbuckling adventurers who thrive on danger and excitement, seeking out treasure and glory with reckless abandon.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Outlaw.jpg"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Druid",
+    "motto": "Guardians of nature, shapeshifters of balance.",
+    "description": "Druidism is one of the oldest and most revered traditions in Azeroth, predating even the rise of mortal races. Druids are guardians of the natural world, dedicated to preserving the balance between the forces of nature and the mortal realm.",
+    "armorType": "Leather",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Druid.jpg",
+    "specializations": [
+      {
+        "name": "Feral",
+        "description" : "Feral Druids are shape-shifters who can take on the forms of powerful animal spirits to unleash their fury upon their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Feral.jpg"
+      },
+      {
+        "name": "Balance",
+        "description" : "Balance Druids are attuned to the natural world, drawing upon the powers of the moon and the stars to wield the forces of nature in battle.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Balance.jpg"
+      },
+      {
+        "name": "Restoration",
+        "description" : "Restoration Druids are healers who draw upon the power of nature to mend the wounds of their allies and restore balance to the world.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DruidResto.jpg"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Demon Hunter",
+    "motto": "Harness chaos, wield fel power, seek vengeance.",
+    "description" : "Demon Hunters are a unique and secretive order of warriors who have undergone a harrowing ritual to gain the powers of demons while retaining their own will.",
+    "armorType": "Leather",
+    "avatar": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/DH.jpg",
+    "specializations": [
+      {
+        "name": "Havoc",
+        "description" : "Havoc Demon Hunters are relentless warriors who harness the chaotic energies of the Fel to unleash devastating attacks upon their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Havoc.jpg"
+      },
+      {
+        "name": "Vengeance",
+        "description" : "Vengeance Demon Hunters are unbreakable defenders who stand as bulwarks against the forces of darkness, using their demonic powers to protect their allies and shield them from harm.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Vengeance.jpg"
+      },
+      {
+        "name": "Chaos",
+        "description" : "Chaos Demon Hunters are agents of anarchy and disorder, wielding the chaotic energies of the Fel to sow chaos and confusion among their enemies.",
+        "image": "https://raw.githubusercontent.com/DenzelAP/imgHosting/main/images/Chaos.jpg"
+      }
+    ]
+  }
+]
